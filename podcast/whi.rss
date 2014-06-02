@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+
+
+	<channel>
+
+		<title>We Have Information</title>
+		<link>http://www.wehaveinformation.com/podcast/</link>
+		<language>en-us</language>
+		<copyright>&#x2117; &amp; &#xA9; 2007 We Have Information</copyright>
+		<itunes:subtitle>Electronica music podcast</itunes:subtitle>
+		<itunes:author>whi recordings</itunes:author>
+		<itunes:summary>WHI Podcast is a periodically updated series of recordings, ranging from rehearsals, DJ sets and audio experiments to live events and guest sessions.</itunes:summary>
+		<description>WHI Podcast is a periodically updated series of recordings, ranging from rehearsals, DJ sets and audio experiments to live events and guest sessions.</description>
+		<itunes:owner>
+			<itunes:name>We Have Information</itunes:name>
+			<itunes:email>ts@wehaveinformation.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="http://www.wehaveinformation.com/podcast/WHI-podcast-master.png" />
+		<itunes:category text="Music">
+		</itunes:category>
+
+		<item>
+			<title>session10 - "29oct"</title>
+			<itunes:author>We Have Information</itunes:author>
+			<itunes:subtitle>We Have Information - session 10 - 29 october</itunes:subtitle>
+			<itunes:summary>improv session excerpt from 29th oct</itunes:summary>
+			<enclosure url="http://www.wehaveinformation.com/podcast/whi-29oct.mp3" length="39126242" type="audio/x-mp3" />
+			<guid></guid>
+			<pubDate>Thu, 16 Aug 2007 19:00:00 GMT</pubDate>
+			<itunes:duration>00:37:31</itunes:duration>
+			<itunes:keywords>electronica, IDM, techno, ambient, experimental</itunes:keywords>
+		</item>
+
+		
+		<item>
+			<title>Session 9</title>
+			<itunes:author>We Have Information</itunes:author>
+			<itunes:subtitle>We Have Information - archive session 9</itunes:subtitle>
+			<itunes:summary>Taken from the 5th WHI rehearsal broadcast - 26/01/06</itunes:summary>
+			<enclosure url="http://www.wehaveinformation.com/podcast/session9.mp3" length="116812711" type="audio/x-mp3" />
+			<guid></guid>
+			<pubDate>Thu, 16 Aug 2007 19:00:00 GMT</pubDate>
+			<itunes:duration>01:21:07</itunes:duration>
+			<itunes:keywords>electronica,IDM</itunes:keywords>
+		</item>
+		
+		<item>
+			<title>Session 8</title>
+			<itunes:author>We Have Information</itunes:author>
+			<itunes:subtitle>We Have Information - archive session 8</itunes:subtitle>
+			<itunes:summary>Taken from the 4th WHI rehearsal broadcast - 21/12/05</itunes:summary>
+			<enclosure url="http://www.wehaveinformation.com/podcast/session8.mp3" length="93492535" type="audio/x-mp3" />
+			<guid></guid>
+			<pubDate>Thu, 16 Aug 2007 19:00:00 GMT</pubDate>
+			<itunes:duration>01:04:55</itunes:duration>
+			<itunes:keywords>electronica,IDM</itunes:keywords>
+		</item>
+
+		<item>
+			<title>Session 7</title>
+			<itunes:author>We Have Information</itunes:author>
+			<itunes:subtitle>We Have Information - archive session 7</itunes:subtitle>
+			<itunes:summary>Taken from the 3rd WHI rehearsal broadcast - 16/11/05</itunes:summary>
+			<enclosure url="http://www.wehaveinformation.com/podcast/session7.mp3" length="60047202" type="audio/x-mp3" />
+			<guid></guid>
+			<pubDate>Thu, 16 Aug 2007 19:00:00 GMT</pubDate>
+			<itunes:duration>41:41</itunes:duration>
+			<itunes:keywords>electronica,IDM</itunes:keywords>
+		</item>
+		
+		<item>
+			<title>Session 6</title>
+			<itunes:author>We Have Information</itunes:author>
+			<itunes:subtitle>We Have Information - archive session 6</itunes:subtitle>
+			<itunes:summary>Taken from the 2nd WHI rehearsal sessions</itunes:summary>
+			<enclosure url="http://www.wehaveinformation.com/podcast/session6.mp3" length="11768489" type="audio/x-mp3" />
+			<guid></guid>
+			<pubDate>Thu, 16 Aug 2007 19:00:00 GMT</pubDate>
+			<itunes:duration>08:10</itunes:duration>
+			<itunes:keywords>electronica,IDM</itunes:keywords>
+		</item>
+		
+		<item>
+			<title>Session 5</title>
+			<itunes:author>We Have Information</itunes:author>
+			<itunes:subtitle>We Have Information - archive session 5</itunes:subtitle>
+			<itunes:summary>Taken from the 2nd WHI rehearsal sessions</itunes:summary>
+			<enclosure url="http://www.wehaveinformation.com/podcast/session5.mp3" length="26730384" type="audio/x-mp3" />
+			<guid></guid>
+			<pubDate>Thu, 16 Aug 2007 19:00:00 GMT</pubDate>
+			<itunes:duration>18:33</itunes:duration>
+			<itunes:keywords>electronica,IDM</itunes:keywords>
+		</item>
+		
+		<item>
+			<title>Session 4</title>
+			<itunes:author>We Have Information</itunes:author>
+			<itunes:subtitle>We Have Information - archive session 4</itunes:subtitle>
+			<itunes:summary>Taken from the 2nd WHI rehearsal sessions</itunes:summary>
+			<enclosure url="http://www.wehaveinformation.com/podcast/session4.mp3" length="48157270" type="audio/x-mp3" />
+			<guid></guid>
+			<pubDate>Thu, 16 Aug 2007 19:00:00 GMT</pubDate>
+			<itunes:duration>33:26</itunes:duration>
+			<itunes:keywords>electronica,IDM</itunes:keywords>
+		</item>
+		
+		<item>
+			<title>Session 3</title>
+			<itunes:author>We Have Information</itunes:author>
+			<itunes:subtitle>We Have Information - archive session 3</itunes:subtitle>
+			<itunes:summary>Taken from the 2nd WHI rehearsal sessions</itunes:summary>
+			<enclosure url="http://www.wehaveinformation.com/podcast/session3.mp3" length="24416979" type="audio/x-mp3" />
+			<guid></guid>
+			<pubDate>Thu, 16 Aug 2007 19:00:00 GMT</pubDate>
+			<itunes:duration>16:57</itunes:duration>
+			<itunes:keywords>electronica,IDM</itunes:keywords>
+		</item>
+		
+		
+ 		<item>
+			<title>Session 2</title>
+			<itunes:author>We Have Information</itunes:author>
+			<itunes:subtitle>We Have Information - archive session 2</itunes:subtitle>
+			<itunes:summary>Second session - Taken from the 1st WHI rehearsal broadcast - 4/10/05</itunes:summary>
+			<enclosure url="http://www.wehaveinformation.com/podcast/session2.mp3" length="48756642" type="audio/x-mp3" />
+			<guid></guid>
+			<pubDate>Thu, 16 Aug 2007 19:00:00 GMT</pubDate>
+			<itunes:duration>33:51</itunes:duration>
+			<itunes:keywords>electronica,IDM</itunes:keywords>
+		</item>
+		
+		<item>
+			<title>Session 1</title>
+			<itunes:author>We Have Information</itunes:author>
+			<itunes:subtitle>We Have Information - archive session 1</itunes:subtitle>
+			<itunes:summary>Very 1st session - Taken from the 1st WHI rehearsal broadcast - 4/10/05</itunes:summary>
+			<enclosure url="http://www.wehaveinformation.com/podcast/session1.mp3" length="43959908" type="audio/x-mp3" />
+			<guid></guid>
+			<pubDate>Thu, 16 Aug 2007 19:00:00 GMT</pubDate>
+			<itunes:duration>30:31</itunes:duration>
+			<itunes:keywords>electronica,IDM</itunes:keywords>
+		</item>
+
+	</channel>
+
+</rss>
