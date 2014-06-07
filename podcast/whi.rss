@@ -1,27 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
-
-
 	<channel>
-
 		<title>We Have Information</title>
 		<link>http://www.wehaveinformation.com/podcast/</link>
 		<language>en-us</language>
 		<copyright>&#x2117; &amp; &#xA9; 2007 We Have Information</copyright>
 		<itunes:subtitle>Electronica music podcast</itunes:subtitle>
-		<itunes:author>whi recordings</itunes:author>
+		<itunes:author>WHI recordings</itunes:author>
 		<itunes:summary>WHI Podcast is a periodically updated series of recordings, ranging from rehearsals, DJ sets and audio experiments to live events and guest sessions.</itunes:summary>
 		<description>WHI Podcast is a periodically updated series of recordings, ranging from rehearsals, DJ sets and audio experiments to live events and guest sessions.</description>
 		<itunes:owner>
 			<itunes:name>We Have Information</itunes:name>
-			<itunes:email>ts@wehaveinformation.com</itunes:email>
+			<itunes:email>tim@tspear.com</itunes:email>
 		</itunes:owner>
 		<itunes:image href="http://www.wehaveinformation.com/podcast/WHI-podcast-master.png" />
 		<itunes:category text="Music">
 		</itunes:category>
 
 		<item>
-			<title>session10 - "29oct"</title>
+			<title>Session10 - "29oct"</title>
 			<itunes:author>We Have Information</itunes:author>
 			<itunes:subtitle>We Have Information - session 10 - 29 october</itunes:subtitle>
 			<itunes:summary>improv session excerpt from 29th oct</itunes:summary>
