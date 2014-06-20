@@ -5,9 +5,9 @@
 		<link>http://www.wehaveinformation.com/podcast/</link>
 		<language>en-us</language>
 		<copyright>&#x2117; &amp; &#xA9; 2007 We Have Information</copyright>
-		<itunes:subtitle>Electronica music podcast</itunes:subtitle>
-		<itunes:author>WHI recordings</itunes:author>
-		<itunes:summary>WHI Podcast is a periodically updated series of recordings, ranging from rehearsals, DJ sets and audio experiments to live events and guest sessions.</itunes:summary>
+		<itunes:subtitle>Electronic Music from the Edges</itunes:subtitle>
+		<itunes:author>WHI Recordings</itunes:author>
+		<itunes:summary>Periodically updated series of recordings, rehearsals and audio experiments.</itunes:summary>
 		<description>WHI Podcast is a periodically updated series of recordings, ranging from rehearsals, DJ sets and audio experiments to live events and guest sessions.</description>
 		<itunes:owner>
 			<itunes:name>We Have Information</itunes:name>
@@ -24,7 +24,7 @@
 			<itunes:summary>improv session excerpt from 29th oct</itunes:summary>
 			<enclosure url="https://dl.dropboxusercontent.com/u/348369/whipodcast/whi-29oct.mp3" length="39126242" type="audio/x-mp3" />
 			<guid></guid>
-			<pubDate>Thu, 16 Aug 2007 19:00:00 GMT</pubDate>
+			<pubDate>Thu, 29 Oct 2007 19:00:00 GMT</pubDate>
 			<itunes:duration>00:37:31</itunes:duration>
 			<itunes:keywords>electronica, IDM, techno, ambient, experimental</itunes:keywords>
 		</item>
