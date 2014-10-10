@@ -16,6 +16,18 @@
 		<itunes:image href="http://www.wehaveinformation.com/podcast/WHI-podcast-master.png" />
 		<itunes:category text="Music">
 		</itunes:category>
+		
+		<item>
+			<title>secretnuclearone-untitleds</title>
+			<itunes:author>We Have Information</itunes:author>
+			<itunes:subtitle>secretnuclear-untitleds</itunes:subtitle>
+			<itunes:summary>first track by secret nuclear.</itunes:summary>
+			<enclosure url="https://dl.dropboxusercontent.com/u/348369/whipodcast/secretnuclear_001.mp3" length="2060941" type="audio/x-mp3" />
+			<guid>WHI011</guid>
+			<pubDate>Fri, 10 Oct 2014 09:00:00 GMT</pubDate>
+			<itunes:duration>00:37:31</itunes:duration>
+			<itunes:keywords>electronica, minimal, experimental</itunes:keywords>
+		</item>
 
 		<item>
 			<title>Session10 - "29oct"</title>
