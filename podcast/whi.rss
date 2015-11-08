@@ -14,9 +14,18 @@
 			<itunes:email>tim@tspear.com</itunes:email>
 		</itunes:owner>
 		<itunes:image href="http://www.wehaveinformation.com/podcast/WHI-podcast-master.png" />
-		<itunes:category text="Music">
-		</itunes:category>
-		
+		<itunes:category text="Music"></itunes:category>
+		<item>
+			<title>secretnucleartwo-smilebob</title>
+			<itunes:author>We Have Information</itunes:author>
+			<itunes:subtitle>smile bob</itunes:subtitle>
+			<itunes:summary>second track by secret nuclear.</itunes:summary>
+			<enclosure url="https://dl.dropboxusercontent.com/u/348369/whipodcast/sn-smilebob_1.mp3" type="audio/x-mp3" />
+			<guid>WHI012</guid>
+			<pubDate>Sun, 08 Nov 2015 09:00:00 GMT</pubDate>
+			<itunes:duration>00:04:18</itunes:duration>
+			<itunes:keywords>electronica, minimal, experimental</itunes:keywords>
+		</item>
 		<item>
 			<title>secretnuclearone-untitleds</title>
 			<itunes:author>We Have Information</itunes:author>
