@@ -1,4 +1,5 @@
-WHI-site
+WHI Media
 ========
 
-wehaveinformation.com - site files.
+Design, Publishing and Music recordings.
+contact tim@tspear.com
