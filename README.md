@@ -1,4 +1,5 @@
-https://www.dropbox.com/s/3sggr883fvnyin1/WHIMedia-logo-blkbg.png?dl=0
+![Image of Yaktocat]
+(https://avatars3.githubusercontent.com/u/2039716?v=3&s=196)
 
 WHI Media
 ========
