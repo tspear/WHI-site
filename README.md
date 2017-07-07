@@ -1,4 +1,4 @@
-![WHI Logo](/assets/svg/WHIMedia-logo-white-optim.svg)
+![WHI Logo](assets/svg/WHIMedia-logo-white-optim.svg)
 
 WHI Media
 ========
