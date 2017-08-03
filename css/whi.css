@@ -1,117 +1,87 @@
 Body {
-	background: #11301A url('../img/whi-bg.gif') repeat-x;
-	color: #FFFFFF;
-	font-family: Helvetica, Arial, sans-serif;
-	font-weight: normal;
-	font-size: 12px;
-	margin: 0;
-}
-
-input {
-}
+  background: #0c0c0c;
+  color: #999999;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size: 12px;
+  margin: 0; }
 
 a {
-	color: #646464;
-}
-
+  color: #646464; }
 
 .big {
-	font-size: 48pt;
-	line-height: 50pt;
-}
+  font-size: 48pt;
+  line-height: 50pt; }
 
 .medium {
-	font-size: 24pt;
-	line-height: 24pt;
-}
+  font-size: 24pt;
+  line-height: 24pt; }
+
 .small {
-	font-size: 9pt;
-}
+  font-size: 9pt; }
 
 .heading {
-	font-weight: bold;
-}
+  font-weight: bold; }
 
 .headerbarlarge {
-	background: black;
-	padding:16px;
-}
+  background: black;
+  padding: 16px; }
 
 .headerbarsmall {
-	background: black;
-	padding:8px;
-}
+  background: black;
+  padding: 8px; }
 
-.panel
-{
-	background: url('../img/pinstripetile.gif');
-	border: 1px solid black;
-	margin-bottom:16px;
-}
+.panel {
+  background: url("../img/pinstripetile.gif");
+  border: 1px solid black;
+  margin-bottom: 16px; }
 
-.greenbg{
-	background: #11301A;
-	margin:16px;
-	padding:16px;
-}
+.greenbg {
+  background: #11301A;
+  margin: 16px;
+  padding: 16px; }
 
-.indented{
-	margin:16px;
-}
+.indented {
+  margin: 16px; }
 
-#content{
-	background: #2A402D;
-	padding: 0px 16px;
-	width: 90%;
-	min-width: 748px;
-	margin: 0 auto;
-}
+#content {
+  background: #2A402D;
+  padding: 0px 16px;
+  width: 90%;
+  min-width: 748px;
+  margin: 0 auto; }
 
-#leftcol
-{
-	float:left;
-}
+#leftcol {
+  float: left; }
 
-#rightcol
-{
-	margin-left: 516px;
-}
+#rightcol {
+  margin-left: 516px; }
 
-#topbar
-{
-	margin-bottom:16px;	
-}
+#topbar {
+  margin-bottom: 16px; }
 
-#podcast
-{
-	width:498px;
-	background: url('../img/pinstripetile.gif');
-	border: 1px solid black;
-	margin: 16px 0px;
-}
-
-
+#podcast {
+  width: 498px;
+  background: url("../img/pinstripetile.gif");
+  border: 1px solid black;
+  margin: 16px 0px; }
 
 #archive {
-	background-color: #055;
-	width: 505px;
-	padding:10px;
-	margin-top:20px;
-}
+  background-color: #055;
+  width: 505px;
+  padding: 10px;
+  margin-top: 20px; }
 
 #mailpreview {
-	background-color: #FFFFFF;
-	color: #000000;
-	font-size: 9pt;
-	padding: 25px;
-	margin: 10px;
-}
+  background-color: #FFFFFF;
+  color: #000000;
+  font-size: 9pt;
+  padding: 25px;
+  margin: 10px; }
 
 #mailinglist {
-	margin-top:60px;
-}
+  margin-top: 60px; }
 
 #footer {
-	clear:both;
-	margin-top:64px;	
-}
+  clear: both;
+  margin-top: 64px; }
