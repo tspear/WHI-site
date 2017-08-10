@@ -21,10 +21,10 @@
 		"oAP": "\/404.html",
 		"oF": 0
 		},
-	"\/assets\/css\/.sass-cache\/48a180c2c69a1a1596b238c79e26b15225110631\/whi.scssc": {
+	"\/assets\/css\/.sass-cache\/272cb0c7fd5067701aac5c8d712160f06f0f7352\/whi.scssc": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/assets\/css\/.sass-cache\/48a180c2c69a1a1596b238c79e26b15225110631\/whi.scssc",
+		"oAP": "\/assets\/css\/.sass-cache\/272cb0c7fd5067701aac5c8d712160f06f0f7352\/whi.scssc",
 		"oF": 0
 		},
 	"\/assets\/css\/whi.css": {
@@ -37,8 +37,14 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/assets\/css\/whi.css.map": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/whi.css.map",
+		"oF": 0
+		},
 	"\/assets\/css\/whi.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -46,8 +52,8 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/assets\/css\/whi.css",
-		"oF": 0,
-		"oS": 0,
+		"oF": 3,
+		"oS": 1,
 		"uL": 1
 		},
 	"\/assets\/svg\/whi-logo-v2-white.svg": {
@@ -72,29 +78,6 @@
 		"oAP": "\/crossdomain.xml",
 		"oF": 0
 		},
-	"\/css\/whi.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/whi-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/css\/whi.scss": {
-		"aP": 0,
-		"bl": 0,
-		"dP": 10,
-		"dS": 0,
-		"ft": 4,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/whi.css",
-		"oF": 0,
-		"oS": 0,
-		"uL": 1
-		},
 	"\/includes\/_content-index.kit": {
 		"ft": 2048,
 		"oA": 1,
@@ -113,11 +96,17 @@
 		"oAP": "\/includes\/_header.html",
 		"oF": 0
 		},
+	"\/includes\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/includes\/index.html",
+		"oF": 0
+		},
 	"\/includes\/index.kit": {
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/index.html",
-		"oF": 2
+		"oAP": "\/includes\/index.html",
+		"oF": 0
 		},
 	"\/index.html": {
 		"ft": 8192,
@@ -133,23 +122,23 @@
 		},
 	"\/podcast\/WHI-podcast-master.png": {
 		"ft": 32768,
-		"iS": 35088,
+		"iS": 17554,
 		"oA": 0,
 		"oAP": "\/podcast\/WHI-podcast-master.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/podcast\/whi-symbol.jpg": {
 		"ft": 16384,
-		"iS": 5815,
+		"iS": 5801,
 		"oA": 0,
 		"oAP": "\/podcast\/whi-symbol.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/podcast\/whi.rss": {
@@ -184,7 +173,7 @@
 		},
 	"\/whirecordings.html": {
 		"ft": 8192,
-		"oA": 0,
+		"oA": 2,
 		"oAP": "\/whirecordings.html",
 		"oF": 0
 		}
