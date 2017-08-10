@@ -22,7 +22,7 @@
 		"oF": 0
 		},
 	"\/assets\/css\/whi.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
@@ -30,7 +30,7 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/assets\/css\/whi.css",
-		"oF": 0,
+		"oF": 3,
 		"oS": 1,
 		"uL": 1
 		},
@@ -90,16 +90,16 @@
 		"oAP": "\/includes\/_header.html",
 		"oF": 0
 		},
-	"\/includes\/index.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/includes\/index.html",
-		"oF": 0
-		},
 	"\/includes\/index.kit": {
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/includes\/index.html",
+		"oAP": "\/index.html",
+		"oF": 2
+		},
+	"\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/index.html",
 		"oF": 0
 		},
 	"\/podcast\/index.html": {
@@ -114,8 +114,8 @@
 		"oA": 0,
 		"oAP": "\/podcast\/WHI-podcast-master.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -140,12 +140,6 @@
 		"oA": 2,
 		"oAP": "\/robots.txt",
 		"oF": 0
-		},
-	"\/whirecordings.html": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/whirecordings.html",
-		"oF": 0
 		}
 	},
 "hooks": [
@@ -157,7 +151,7 @@
 	"displayValue": "WHI-site",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-greg",
-	"lastBuiltDate": 524099539
+	"lastBuiltDate": 524095232
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -1929,7 +1923,7 @@
 		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 2,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
@@ -1949,8 +1943,8 @@
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "kit",
-		"autoOutputPathReplace2": "html",
+		"autoOutputPathReplace1": "",
+		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsLESS": {
@@ -1960,8 +1954,8 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 0,
-		"createSourceMap": 1,
+		"autoOutputPathStyle": 2,
+		"createSourceMap": 0,
 		"disableJavascript": 0,
 		"ieCompatibility": 1,
 		"outputStyle": 0,
@@ -2026,7 +2020,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 2,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
@@ -2054,7 +2048,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 2,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"importCSS": 0,
@@ -2078,13 +2072,13 @@
 		"autoOutputPathRelativePath": "\/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 2,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
 		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
-		"moduleType": 2,
+		"moduleType": 0,
 		"noImplicitAny": 0,
 		"preserveConstEnums": 0,
 		"removeComments": 0,
@@ -2220,7 +2214,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
