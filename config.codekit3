@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25849",
 "files": {
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/.gitignore",
+		"oF": 0
+		},
 	"\/404.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -25,14 +31,47 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/assets\/css\/whi.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/whi-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/assets\/css\/whi.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/assets\/css\/whi.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
+		},
 	"\/assets\/js\/stub.js": {
 		"ft": 64,
 		"mi": 1,
 		"oA": 0,
-		"oAP": "\/assets\/js\/min\/stub-min.js",
+		"oAP": "\/assets\/js\/stub-min.js",
 		"oF": 0,
 		"sC": 1,
 		"tS": 0
+		},
+	"\/assets\/svg\/whi-logo-v2-white.svg": {
+		"ft": 2097152,
+		"miP": 0,
+		"oA": 2,
+		"oAP": "\/assets\/svg\/whi-logo-v2-white.svg",
+		"oF": 0,
+		"opt": 0,
+		"plM": 3758088159,
+		"prP": 0
 		},
 	"\/assets\/svg\/WHIMedia-logo-white-optim.svg": {
 		"ft": 2097152,
@@ -56,95 +95,35 @@
 		"oAP": "\/crossdomain.xml",
 		"oF": 0
 		},
-	"\/css\/whi.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/css\/whi-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/humans.txt": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/humans.txt",
+	"\/includes\/_content-index.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/includes\/_content-index.html",
 		"oF": 0
 		},
-	"\/img\/ep-panel.gif": {
-		"ft": 4194304,
-		"iS": 16887,
-		"oA": 0,
-		"oAP": "\/img\/ep-panel.gif",
-		"oF": 0,
-		"opt": 0
+	"\/includes\/_footer.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/includes\/_footer.html",
+		"oF": 0
 		},
-	"\/img\/links.gif": {
-		"ft": 4194304,
-		"iS": 315,
-		"oA": 0,
-		"oAP": "\/img\/links.gif",
-		"oF": 0,
-		"opt": 0
+	"\/includes\/_header.kit": {
+		"ft": 2048,
+		"oA": 1,
+		"oAP": "\/includes\/_header.html",
+		"oF": 0
 		},
-	"\/img\/pinstripetile.gif": {
-		"ft": 4194304,
-		"iS": 59,
-		"oA": 0,
-		"oAP": "\/img\/pinstripetile.gif",
-		"oF": 0,
-		"opt": 0
+	"\/includes\/index.html": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/includes\/index.html",
+		"oF": 0
 		},
-	"\/img\/podcast-title.gif": {
-		"ft": 4194304,
-		"iS": 1899,
+	"\/includes\/index.kit": {
+		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/img\/podcast-title.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/whi-bg.gif": {
-		"ft": 4194304,
-		"iS": 1679,
-		"oA": 0,
-		"oAP": "\/img\/whi-bg.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/whi-logo.gif": {
-		"ft": 4194304,
-		"iS": 2971,
-		"oA": 0,
-		"oAP": "\/img\/whi-logo.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/img\/WHI-recordings-logo.gif": {
-		"ft": 4194304,
-		"iS": 2075,
-		"oA": 0,
-		"oAP": "\/img\/WHI-recordings-logo.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"\/js\/flashobject.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/js\/min\/flashobject-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
-		},
-	"\/js\/scale.fix.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/js\/min\/scale.fix-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
+		"oAP": "\/includes\/index.html",
+		"oF": 0
 		},
 	"\/podcast\/index.html": {
 		"ft": 8192,
@@ -203,41 +182,11 @@
 		"oAP": "\/robots.txt",
 		"oF": 0
 		},
-	"\/templates\/_header.kit": {
-		"ft": 2048,
-		"oA": 1,
-		"oAP": "\/templates\/_header.html",
-		"oF": 0
-		},
-	"\/templates\/index.kit": {
-		"ft": 2048,
-		"oA": 0,
-		"oAP": "\/templates\/index.html",
-		"oF": 0
-		},
-	"\/wehaveinformation.html": {
+	"\/whirecordings.html": {
 		"ft": 8192,
 		"oA": 2,
-		"oAP": "\/wehaveinformation.html",
+		"oAP": "\/whirecordings.html",
 		"oF": 0
-		},
-	"\/whirecordings\/index.md": {
-		"cS": 0,
-		"eF": 1,
-		"eL": 1,
-		"eLB": 0,
-		"ema": 1,
-		"eSQ": 1,
-		"ft": 4096,
-		"oA": 0,
-		"oAP": "\/whirecordings\/index.html",
-		"oF": 0,
-		"oFM": 0,
-		"oS": 0,
-		"pHT": 0,
-		"pME": 1,
-		"rFN": 0,
-		"uCM": 0
 		}
 	},
 "hooks": [
@@ -2021,7 +1970,7 @@
 		"autoOutputPathRelativePath": "\/min",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
@@ -2041,8 +1990,8 @@
 		"autoOutputAction": 0,
 		"autoOutputPathFilenamePattern": "*.html",
 		"autoOutputPathRelativePath": "",
-		"autoOutputPathReplace1": "",
-		"autoOutputPathReplace2": "",
+		"autoOutputPathReplace1": "kit",
+		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0
 		},
 	"languageDefaultsLESS": {
@@ -2052,8 +2001,8 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "less",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
-		"createSourceMap": 0,
+		"autoOutputPathStyle": 0,
+		"createSourceMap": 1,
 		"disableJavascript": 0,
 		"ieCompatibility": 1,
 		"outputStyle": 0,
@@ -2118,7 +2067,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"decimalPrecision": 10,
@@ -2146,7 +2095,7 @@
 		"autoOutputPathRelativePath": "..\/css",
 		"autoOutputPathReplace1": "stylus",
 		"autoOutputPathReplace2": "css",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createSourceMap": 0,
 		"debugStyle": 0,
 		"importCSS": 0,
@@ -2170,13 +2119,13 @@
 		"autoOutputPathRelativePath": "\/js",
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
-		"autoOutputPathStyle": 2,
+		"autoOutputPathStyle": 0,
 		"createDeclarationFile": 0,
 		"createSourceMap": 0,
 		"jsxMode": 0,
 		"minifyOutput": 0,
 		"moduleResolutionType": 0,
-		"moduleType": 0,
+		"moduleType": 2,
 		"noImplicitAny": 0,
 		"preserveConstEnums": 0,
 		"removeComments": 0,
@@ -2312,7 +2261,7 @@
 			"flagValue": -1
 			},
 		"screw-ie8": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"semicolons": {
