@@ -21,12 +21,6 @@
 		"oAP": "\/404.html",
 		"oF": 0
 		},
-	"\/assets\/css\/.sass-cache\/272cb0c7fd5067701aac5c8d712160f06f0f7352\/whi.scssc": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/.sass-cache\/272cb0c7fd5067701aac5c8d712160f06f0f7352\/whi.scssc",
-		"oF": 0
-		},
 	"\/assets\/css\/whi.css": {
 		"aP": 1,
 		"bl": 0,
@@ -36,12 +30,6 @@
 		"oAP": "\/assets\/css\/whi-min.css",
 		"oF": 0,
 		"oS": 3
-		},
-	"\/assets\/css\/whi.css.map": {
-		"ft": 8192,
-		"oA": 2,
-		"oAP": "\/assets\/css\/whi.css.map",
-		"oF": 0
 		},
 	"\/assets\/css\/whi.scss": {
 		"aP": 1,
