@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "25849",
 "files": {
+	"\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.gitignore",
+		"oF": 0
+		},
 	"\/404.html": {
 		"ft": 8192,
 		"oA": 0,
@@ -38,16 +44,6 @@
 		"oA": 2,
 		"oAP": "\/build\/css\/.sass-cache\/48a180c2c69a1a1596b238c79e26b15225110631\/whi.scssc",
 		"oF": 0
-		},
-	"\/css\/whi.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 1,
-		"oAP": "\/build\/css\/whi-min.css",
-		"oF": 0,
-		"oS": 3
 		},
 	"\/css\/whi.scss": {
 		"aP": 0,
