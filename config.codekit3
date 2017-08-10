@@ -21,26 +21,6 @@
 		"oAP": "\/404.html",
 		"oF": 0
 		},
-	"\/assets\/css\/style.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/css\/style-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"\/assets\/css\/whi.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "\/assets\/css\/whi-min.css",
-		"oF": 0,
-		"oS": 3
-		},
 	"\/assets\/css\/whi.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -51,17 +31,8 @@
 		"oA": 0,
 		"oAP": "\/assets\/css\/whi.css",
 		"oF": 0,
-		"oS": 0,
+		"oS": 1,
 		"uL": 1
-		},
-	"\/assets\/js\/stub.js": {
-		"ft": 64,
-		"mi": 1,
-		"oA": 0,
-		"oAP": "\/assets\/js\/stub-min.js",
-		"oF": 0,
-		"sC": 1,
-		"tS": 0
 		},
 	"\/assets\/svg\/whi-logo-v2-white.svg": {
 		"ft": 2097152,
@@ -82,6 +53,12 @@
 		"opt": 0,
 		"plM": 3758088159,
 		"prP": 0
+		},
+	"\/build\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.gitignore",
+		"oF": 0
 		},
 	"\/CNAME": {
 		"ft": 8192,
@@ -137,8 +114,8 @@
 		"oA": 0,
 		"oAP": "\/podcast\/WHI-podcast-master.png",
 		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
+		"oIPL": 1,
+		"opt": 1,
 		"oT": 1,
 		"q": 100
 		},
@@ -198,7 +175,7 @@
 	"displayValue": "WHI-site",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "meme-greg",
-	"lastBuiltDate": 524095232
+	"lastBuiltDate": 524099539
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
