@@ -21,6 +21,12 @@
 		"oAP": "\/404.html",
 		"oF": 0
 		},
+	"\/assets\/css\/.sass-cache\/379227af41c49a7d4d813beb6935348b9905ce51\/whi.scssc": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/assets\/css\/.sass-cache\/379227af41c49a7d4d813beb6935348b9905ce51\/whi.scssc",
+		"oF": 0
+		},
 	"\/assets\/css\/whi.css": {
 		"aP": 1,
 		"bl": 0,
@@ -64,6 +70,12 @@
 		"plM": 3758088159,
 		"prP": 0
 		},
+	"\/build\/.gitignore": {
+		"ft": 8192,
+		"oA": 2,
+		"oAP": "\/build\/.gitignore",
+		"oF": 0
+		},
 	"\/CNAME": {
 		"ft": 8192,
 		"oA": 2,
@@ -86,6 +98,12 @@
 		"ft": 2048,
 		"oA": 1,
 		"oAP": "\/includes\/_footer.html",
+		"oF": 0
+		},
+	"\/includes\/_header.html": {
+		"ft": 8192,
+		"oA": 1,
+		"oAP": "\/includes\/_header.html",
 		"oF": 0
 		},
 	"\/includes\/_header.kit": {
